@@ -1,5 +1,10 @@
-This is an example of how to use the package nbinteract.
+Use `nbinteract` to create an interactive webpage from a Jupyter notebook.
 
-- write a Jupyter notebook
-- convert it to a standalone webpage using nbinteract
-- host it on Github
+To set up a new interactive page hosted in ice documentation here:
+https://www.nbinteract.com/tutorial/tutorial_intro.html
+
+Workflow:
+
+- Modify the notebook locally
+- Run `nbinteract tutorial.ipynb` to create (updated) tutorial.html.
+- push changes to github
